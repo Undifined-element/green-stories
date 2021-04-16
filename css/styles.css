@@ -1,0 +1,118 @@
+body{
+    background-color: bisque;
+    color: #36622b;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    border-bottom: 0em;
+}
+.navbar{
+    background-color: #36622b;
+}
+
+h1{
+    
+}
+.circle{
+    
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: bisque;
+    width: 10.5rem;
+    height: 10.5rem;
+    position: relative;
+    margin: 10vh auto 0;
+    border-radius: 50%; 
+    border: 1px solid #36622b;
+    background-image: linear-gradient(to bottom right,#622B5F,#2B622D,#36622b, #2B624F);    
+    padding: 1% 1%;
+    
+    }
+    
+h2{
+    font-family: 'Montserrat', sans-serif;
+    padding: 1% 1%;
+    text-align: center;
+    font-size: 3rem;}
+h3,em{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:#36622b ;
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    }
+
+.test-img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     margin-top: 5rem;
+        
+    }
+
+#press{
+    padding: 0%;
+}
+.carousel-item{
+    padding: 2% 15%;
+    height: 
+    
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px ;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color:#36622b;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color:#36622b;
+}
+p{
+    font-family: 'Ubuntu', sans-serif;    
+    color: #8f8f8f;
+}
+.test-img{
+    width: 20%;
+    height: 20%;
+    border-radius: 100%;
+}
+
+#features{
+    padding: 7% 15%;
+
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #4BB543  ;
+    margin-bottom: 1rem;
+    
+}
+.icon:hover{
+    color: #36622b ;
+}
+#footer{
+    background-color:#36622b ;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+
+}
